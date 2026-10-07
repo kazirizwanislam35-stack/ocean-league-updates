@@ -1,0 +1,9 @@
+
+{
+  "applicationId": "PASTE_THE_REAL_APPLICATION_ID",
+  "version": "3.3.0",
+  "versionCode": 10,
+  "apkUrl": "https://github.com/kazirizwanislam35-stack/ocean-league-updates/releases/download/v3.3.0/Ocean_League.apk",
+  "sha256": "PASTE_THE_REAL_64_CHARACTER_SHA256_HASH",
+  "releaseNotes": "Ocean League V3.3: editable lineups, team managers, flexible groups and customizable fixtures."
+}
